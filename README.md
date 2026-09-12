@@ -43,7 +43,7 @@ I’m a hobby developer who loves working with **JavaScript**, **Node.js**, and 
 
 | Top Languages | GitHub Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Reinfors-Asterax&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> | <img src="https://github-readme-stats-rihanss-projects.vercel.app/api?username=Reinfors-Asterax&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&cache_seconds=1" alt="Stats" /> |
+| <img src="https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Reinfors-Asterax&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> | <img src="https://github-readme-stats-rihanss-projects.vercel.app/api?username=Reinfors-Asterax&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Stats" /> |
 
 <br/>
 
