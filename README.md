@@ -56,10 +56,6 @@ I’m a hobby developer who loves working with **JavaScript**, **Node.js**, and 
 
 <br/>
 
-### ⚡ Active Project
-
-[![Discord Bots](https://top.gg/api/widget/519521318719324181.svg)](https://top.gg/bot/519521318719324181)
-
 <br/>
 
 ### 📫 Let's Connect!
@@ -75,9 +71,6 @@ I’m a hobby developer who loves working with **JavaScript**, **Node.js**, and 
     </a>
     <a href="https://discord.gg/k6MEUfp" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://asterax.xyz/" target="_blank">
-        <img src="https://img.shields.io/badge/website-asterax.xyz-blue?style=for-the-badge&logo=domain&logoColor=white" alt="Website"/>
     </a>
 </p>
 
