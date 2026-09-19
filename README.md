@@ -45,6 +45,7 @@ I’m a hobby developer who loves working with **JavaScript**, **Node.js**, and 
 | :---: | :---: |
 | <img src="https://github-readme-stats-rihanss-projects.vercel.app/api/top-langs/?username=Reinfors-Asterax&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=18000" alt="Top Langs" /> | <img src="https://github-readme-stats-rihanss-projects.vercel.app/api?username=Reinfors-Asterax&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Stats" /> |
 
+**Note:** “Top Languages” is simply a metric based on the languages used in my public code and does not necessarily reflect my experience or level of proficiency in each language
 <br/>
 
 ### 📂 Open Source Projects
