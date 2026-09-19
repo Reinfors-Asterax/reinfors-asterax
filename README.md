@@ -63,14 +63,11 @@ I’m a hobby developer who loves working with **JavaScript**, **Node.js**, and 
 *Feel free to reach out if you have any questions or if you'd like to collaborate.*
 
 <p>
-    <a href="https://github.com/Reinforss" target="_blank">
+    <a href="https://github.com/Reinfors-Asterax" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/>
     </a>
     <a href="https://steamcommunity.com/id/rihannsme/" target="_blank">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-    </a>
-    <a href="https://discord.gg/k6MEUfp" target="_blank">
-        <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
 </p>
 
